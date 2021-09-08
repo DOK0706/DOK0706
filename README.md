@@ -1,4 +1,4 @@
-### Hi there 👋
+### DDOK DDOK 🚪
 
 <!--
 **DOK0706/DOK0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=#50586C&text=%20잡탕🍲%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=50586C&text=%20잡탕🍲%20&height=300&fontSize=100&textBg=true)
