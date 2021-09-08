@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=6A7BA2&text=%20도균 Cart🛒%20&height=200&fontColor=FFDFDE&fontSize=30&)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=6A7BA2&text=%20도균%20Cart🛒%20&height=200&fontColor=FFDFDE&fontSize=30&)
+
