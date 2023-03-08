@@ -1,4 +1,4 @@
-### 메마른 잔디밭의 한 줄기의 초목 🌿
+### 메마른 잔디밭에 한 줄기의 초목 🌿
 ![header](https://capsule-render.vercel.app/api?type=soft&color=50586C&text=DOKyun_Cart🛒&height=200&fontColor=DCE2F0&fontSize=50&)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOK0706&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOK0706&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
