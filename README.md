@@ -1,4 +1,4 @@
-### 유기해서 미안해 ㅠㅠ 앞으론 R-studio로 만나자
+### 유기 당함
 ![header](https://capsule-render.vercel.app/api?type=soft&color=50586C&text=DOKyun_Cart🛒&height=200&fontColor=DCE2F0&fontSize=50&)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOK0706&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOK0706&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
